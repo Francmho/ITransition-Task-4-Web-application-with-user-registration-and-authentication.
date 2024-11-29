@@ -1,0 +1,5 @@
+
+
+[submodule "react-flask-postgres-boilerplate-with-docker"]
+	path = react-flask-postgres-boilerplate-with-docker
+	url = https://github.com/Francmho/react-flask-postgres-boilerplate-with-docker.git
